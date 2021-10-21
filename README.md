@@ -31,8 +31,35 @@
 ![screenshot](images/11.png)
 
 3. Реализовать сервер с управляющим потоком. При создании сервера прослушивание портов происходит в отдельном потоке, а главный поток программы в это время способен принимать команды от пользователя. Необходимо реализовать следующие команды:
+
+![screenshot](images/12.png)
+
+![screenshot](images/13.png)
+    
     1. Отключение сервера (завершение программы);
+    
+![screenshot](images/14.png)
+    
     2. Пауза (остановка прослушивание порта);
+    
+![screenshot](images/15.png)
+
+![screenshot](images/16.png)
+
+![screenshot](images/17.png)
+
+![screenshot](images/18.png)
+
     3. Показ логов;
+    
+![screenshot](images/19.png)
+
     4. Очистка логов;
+    
+![screenshot](images/20.png)
+    
     5. Очистка файла идентификации.
+ 
+![screenshot](images/21.png)
+  
+![screenshot](images/22.png)
